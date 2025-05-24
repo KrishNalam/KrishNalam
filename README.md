@@ -6,9 +6,9 @@ Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
 
 ## 📊 Some Numbers
-<a href="https://github.com/koolkrish18/github-readme-stats">
+<a href="https://github.com/KrisNalam/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koolkrish18&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true"/>
 </a>
-<a href="https://github.com/koolkrish18/convoychat">
+<a href="https://github.com/KrisNalam/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koolkrish18&layout=donut&theme=dark&bg_color=00000000&size_weight=0.5&count_weight=0.5" />
 </a>
