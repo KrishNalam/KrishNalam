@@ -7,7 +7,7 @@ Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 
 ## 📊 Some Numbers
 <a href="https://github.com/koolkrish18/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koolkrish18&show_icons=true&theme=dark&bg_color=00000000"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=koolkrish18&show_icons=true&theme=dark&bg_color=00000000&include_all_commits=true"/>
 </a>
 <a href="https://github.com/koolkrish18/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koolkrish18&layout=donut&theme=dark&bg_color=00000000&size_weight=0.5&count_weight=0.5" />
