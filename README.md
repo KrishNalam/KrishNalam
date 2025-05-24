@@ -7,6 +7,10 @@ Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 
 ![Visitor Count](https://profile-counter.glitch.me/KrishNalam/count.svg)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 ## 📊 Some Numbers
 <a href="https://github.com/KrishNalam/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&show_icons=true&bg_color=00000000&include_all_commits=true&hide=issues,contribs&hide_border=true"/>
