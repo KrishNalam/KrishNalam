@@ -8,7 +8,6 @@ Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 ![Visitor Count](https://profile-counter.glitch.me/KrishNalam/count.svg)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ## 📊 Some Numbers
