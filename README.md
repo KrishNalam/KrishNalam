@@ -5,7 +5,7 @@ Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
 
-![Visitor Count](https : //profile-counter.glitch.me/KrishNalam/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/KrishNalam/count.svg)
 
 ## 📊 Some Numbers
 <a href="https://github.com/KrishNalam/github-readme-stats">
