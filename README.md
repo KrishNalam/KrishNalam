@@ -8,11 +8,11 @@ Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 40 mins   █████████████░░░░░░░░░░░░   52.65 %
-CSS          1 hr 42 mins    ████████▒░░░░░░░░░░░░░░░░   33.60 %
-HTML         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+JavaScript   4 hrs 29 mins   ███████████████▒░░░░░░░░░   61.77 %
+CSS          1 hr 42 mins    ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+HTML         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+JSON         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
