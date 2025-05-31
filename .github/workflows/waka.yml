@@ -9,7 +9,7 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Typing Away In...
     runs-on: ubuntu-latest
     steps:
         # this action name
@@ -18,13 +18,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
           SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 5 # optional
+          LANG_COUNT: 4 # optional
           SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
