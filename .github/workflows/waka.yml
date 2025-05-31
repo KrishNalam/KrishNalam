@@ -17,9 +17,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
-          SHOW_TITLE: true # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 4 # optional
-          SHOW_TIME: true # optional
-          SHOW_MASKED_TIME: true # optional
