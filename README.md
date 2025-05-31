@@ -5,6 +5,7 @@ Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
 
+## 📊 Typing Away In...
 <!--START_SECTION:waka-->
 
 ```txt
