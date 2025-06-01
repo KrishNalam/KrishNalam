@@ -19,5 +19,6 @@ jobs:
           ### content
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
           TIME_RANGE: last_7_days # optional
-          LANG_COUNT: 4 # optional
-          SHOW_TOTAL: true # optional
+          LANG_COUNT: 4 # optional          
+          SHOW_TIME: true # optional
+
