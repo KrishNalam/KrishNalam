@@ -19,7 +19,7 @@ JSON         24 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 # 📊 Some More Numbers
 <a href="https://github.com/KrishNalam/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&theme=transparent&show_icons=true&bg_color=00000000&include_all_commits=true&hide=issues&show=prs_merged,reviews&custom_title=Commitment Issues? Not Here."/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&theme=transparent&show_icons=true&bg_color=00000000&include_all_commits=true&hide=issues&show=prs_merged,reviews&custom_title="Commitment Issues? Not Here.""/>
 </a>
 <a href="https://github.com/KrishNalam/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&theme=transparent&bg_color=00000000&size_weight=0.5&count_weight=0.5" />
