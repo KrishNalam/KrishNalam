@@ -5,7 +5,7 @@ Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
 
-## 📊 Typing Away In...
+## Where My Time Went This Week...
 <!--START_SECTION:waka-->
 
 ```txt
@@ -17,10 +17,10 @@ JSON         24 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-## 📊 Some Numbers
+## 📊 Some More Numbers
 <a href="https://github.com/KrishNalam/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&theme=vision-friendly-dark&show_icons=true&bg_color=00000000&include_all_commits=true&hide=issues,contribs"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&theme=transparent&show_icons=true&bg_color=00000000&include_all_commits=true&hide=contribs"/>
 </a>
 <a href="https://github.com/KrishNalam/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&theme=dark&bg_color=00000000&size_weight=0.5&count_weight=0.5" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&theme=transparent&bg_color=00000000&size_weight=0.5&count_weight=0.5" />
 </a>
