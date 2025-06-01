@@ -3,7 +3,7 @@ A **full-stack developer**, based in Toronto, passionate about 3D design, AI and
 Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
 
 # 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,tailwind,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
 
 # ⏳Where My Time Went This Week...
 <!--START_SECTION:waka-->
