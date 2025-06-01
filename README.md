@@ -19,8 +19,8 @@ JSON         24 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 # 📊 Some More Numbers
 <a href="https://github.com/KrishNalam/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&border_radius=0&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"/>
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&border_radius=0&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"/>
 </a>
 <a href="https://github.com/KrishNalam/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&text_color=ffffff&title_color=ffffff&hide_border=true&bg_color=141b23&size_weight=0.5&count_weight=0.5&border_radius=0" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&text_color=ffffff&title_color=ffffff&hide_border=true&bg_color=141b23&size_weight=0.5&count_weight=0.5&border_radius=0" />
 </a>
