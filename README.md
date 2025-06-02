@@ -3,7 +3,7 @@
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,tailwind,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
 
-## ⏳Where My Time Went This Week...
+## ⏳ Where My Time Went This Week...
 <!--START_SECTION:waka-->
 
 ```txt
