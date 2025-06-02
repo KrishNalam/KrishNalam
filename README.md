@@ -1,9 +1,9 @@
 ## 👋 Hey there, I'm __[Krish Nalam](https://krishnalam.com)__!
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,tailwind,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
 
-# ⏳Where My Time Went This Week...
+## ⏳Where My Time Went This Week...
 <!--START_SECTION:waka-->
 
 ```txt
@@ -15,7 +15,7 @@ JSON         24 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-# 📊 Some More Numbers
+## 📊 Some More Numbers
 <a href="https://github.com/KrishNalam/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"/>
 </a>
