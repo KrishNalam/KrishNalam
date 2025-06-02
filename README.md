@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Krish Nalam!
+# 👋 Hey there, I'm [Krish Nalam](https://krishnalam.com)!
 A **full-stack developer**, based in Toronto, passionate about 3D design, AI and software developement.
-Checkout my **[Portfolio](https://krishnalam.com)** to get to know me more! :)
+Checkout my **[Krish Nalam](https://krishnalam.com)** to get to know me more! :)
 
 # 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,tailwind,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
