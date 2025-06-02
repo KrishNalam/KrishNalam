@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm <u>[Krish Nalam](https://krishnalam.com)</u>!
+ 👋 Hey there, I'm <u>[Krish Nalam](https://krishnalam.com)</u>!
 
 # 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,ts,tailwind,react,nodejs,nextjs,mongodb,sqlite,python,java)](https://skillicons.dev)
