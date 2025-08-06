@@ -22,7 +22,7 @@ TSConfig     0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## 📊 Some More Numbers
 
-<div style="display: flex; width: 100%; gap: 1rem;">
+<div style="display: flex; gap: 1rem;">
   <a href="https://github.com/KrishNalam/github-readme-stats" style="flex:5;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"
