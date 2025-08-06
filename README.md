@@ -22,11 +22,17 @@ TSConfig     0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## 📊 Some More Numbers
 
-<div style="width:100%">
-  <a href="https://github.com/KrishNalam/github-readme-stats">
-    <img height=238 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"/>
+<div style="display: flex; align-items: stretch; width: 100%; gap: 1rem;">
+  <a href="https://github.com/KrishNalam/github-readme-stats" style="flex:5;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"
+      style="width: 100%;" align="center"
+      />
   </a>
-  <a href="https://github.com/KrishNalam/convoychat">
-    <img height=238 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&text_color=ffffff&title_color=ffffff&hide_border=true&bg_color=141b23&size_weight=0.5&count_weight=0.5" />
+  <a href="https://github.com/KrishNalam/convoychat" style="flex:3;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&text_color=ffffff&title_color=ffffff&hide_border=true&bg_color=141b23&size_weight=0.5&count_weight=0.5"
+      style="width: 100%;" align="center"
+      />
   </a>
 </div>
