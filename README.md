@@ -15,7 +15,7 @@ TSConfig     0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 ## 📊 Some More Numbers
-<a href="https://github.com/KrishNalam/github-readme-stats" style="display: flex; flex: 1;">
+<a href="https://github.com/KrishNalam/github-readme-stats" style="display: flex; flex: 1; flex-direction: row;">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"/>
 </a>
 <a href="https://github.com/KrishNalam/convoychat">
