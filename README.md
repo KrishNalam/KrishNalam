@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TeX      15 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.47 %
-Python   2 mins          ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
