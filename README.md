@@ -21,9 +21,10 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!--END_SECTION:waka-->
 
-## 📊 Some More Numbers
+
 
   <!--<div align="center">
+  ## 📊 Some More Numbers
   <table border="0">
     <tr>
       <td width="60%" align="center">
