@@ -4,7 +4,7 @@
 
 <div style="width:100%">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,html,css,js,ts,tailwind,express,react,nodejs,nextjs,mongodb,sqlite,python,java" alt="My Skills" width="100%" />
+    <img src="https://skillicons.dev/icons?i=linux,html,css,js,ts,tailwind,express,react,nextjs,mongodb,sqlite,python,java, aws" alt="My Skills" width="100%" />
   </a>
 </div>
 
