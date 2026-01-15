@@ -23,15 +23,25 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## 📊 Some More Numbers
 
-  <a href="https://github.com/KrishNalam/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"
-      style="width:62%" align="center"
-      />
-  </a>
-  <a href="https://github.com/KrishNalam/anuraghazra/github-readme-stats" >
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&text_color=ffffff&title_color=ffffff&hide_border=true&bg_color=141b23&size_weight=0.5&count_weight=0.5"
-      style="width:37%" align="center"
-      />
-  </a>
+  <div align="center">
+  <table border="0">
+    <tr>
+      <td width="60%" align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img 
+            src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged" 
+            alt="Krish's GitHub Stats" 
+          />
+        </a>
+      </td>
+      <td width="40%" align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&text_color=ffffff&title_color=ffffff&hide_border=true&bg_color=141b23&size_weight=0.5&count_weight=0.5" 
+            alt="Top Languages" 
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
