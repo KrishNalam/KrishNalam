@@ -23,7 +23,7 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## 📊 Some More Numbers
 
-  <a href="https://github.com/KrishNalam/github-readme-stats">
+  <a href="https://github.com/KrishNalam/anuraghazra/github-readme-stats">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=KrishNalam&hide_border=true&show_icons=true&bg_color=141b23&icon_color=66ff00&text_color=ffffff&title_color=ffffff&include_all_commits=true&hide=issues,contribs&show=prs_merged"
       style="width:62%" align="center"
