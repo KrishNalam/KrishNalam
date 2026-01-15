@@ -29,7 +29,7 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       style="width:62%" align="center"
       />
   </a>
-  <a href="https://github.com/KrishNalam/convoychat" >
+  <a href="https://github.com/KrishNalam/anuraghazra/github-readme-stats" >
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishNalam&layout=donut&text_color=ffffff&title_color=ffffff&hide_border=true&bg_color=141b23&size_weight=0.5&count_weight=0.5"
       style="width:37%" align="center"
