@@ -23,7 +23,7 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ## 📊 Some More Numbers
 
-  <div align="center">
+  <!--<div align="center">
   <table border="0">
     <tr>
       <td width="60%" align="center">
@@ -44,4 +44,7 @@ CSS          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
       </td>
     </tr>
   </table>
-</div>
+  #0d1016
+</div>-->
+
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=KrishNalam&dithering=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%2890deg%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23FFFFFFundefined&hide=avatar">
