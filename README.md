@@ -23,7 +23,7 @@ TypeScript   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 
 
-  <!--<div align="center">
+  <div align="center">
   ## 📊 Some More Numbers
   <table border="0">
     <tr>
@@ -46,6 +46,5 @@ TypeScript   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     </tr>
   </table>
   #0d1016
-</div>-->
+</div>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=KrishNalam&dithering=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%2890deg%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23FFFFFFundefined&hide=avatar">
