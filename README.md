@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C      2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.87 %
-Text   1 min           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
