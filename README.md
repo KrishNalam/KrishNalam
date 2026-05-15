@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 mins               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.09 %
-CSS          0 secs                ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
